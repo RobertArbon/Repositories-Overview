@@ -20,7 +20,7 @@ This serves as a table of contents for my public Github profile.
   - [Deprecated - results analysis](https://github.com/RobertArbon/msm_hyperparameter_optimisation). Old version of results analysis. Has some useful code but is not current.
 - **[InvSpec](https://github.com/RobertArbon/invspec)** - A package that generates stochastic matrices with given eignevalue spectrum (InvSpec = Invert Spectrum). 
 - **[Adaptive](https://github.com/RobertArbon/adaptive)** - A package the tests coverage times for graph exploration using various adaptive sampling strategies.
-- **[Multitask learning for AMR](https://github.com/RobertArbon/multitask_learning_for_AMR)** - Small R-markdown notebooks that test some multitask learning algorithms for veterinary epidemiology.
+- **[Multitask learning for AMR](https://github.com/RobertArbon/multitask_learning_for_AMR)** - The JGI funded project *MTL for AMR*. See [here](https://www.bristol.ac.uk/golding/our-research/life-sciences/multitask-learning-for-amr/) for more details. 
 - 
 
 ## Notes / courses 
@@ -28,13 +28,17 @@ This serves as a table of contents for my public Github profile.
 - [Art of MD](https://github.com/RobertArbon/art_of_md) - Some training materials for the CCPBioSim funded *Art of MD* course. Using deep learning style transfer for illustrating biomolecules. Some examples of output from the course can be found [here](https://drive.google.com/drive/u/0/folders/1MUUMO9rf9WJHoX3rmv4ww5gPdbXkQUva) (please request access). 
 - 
 
-## Personal
-- [robert-arbon](https://github.com/RobertArbon/robert-arbon) - My hugo website: [robertarbon.com](https://robertarbon.com)
-- [Wordle Solver](https://github.com/RobertArbon/wordle_solver) - WIP. My attempt at a maximum entropy solver for Worldle (currently has a bug). 
-- 
-
+##  Open-source contributions
+- [Osprey (Hyperparameter tuning)](https://github.com/msmbuilder/osprey/pulls?q=is%3Apr+author%3ARobertArbon+is%3Aclosed) - all my closed PRs. Project is no longer in active development.
+- [PyEMMA (Markov state models)](https://github.com/markovmodel/PyEMMA/pulls?q=is%3Apr+author%3ARobertArbon+is%3Aclosed+) - all my closed PRs. Project is no longer in active development. 
 
 ## Sonification / Art
+- [Metastable Impressions] - The JGI funded project *Metastable Impressions* a multimedia data visualisation and sonification project. See [here](https://www.bristol.ac.uk/golding/our-research/digital-humanities/metastable-impressions/) for more details. 
+
+
+## Personal / miscellaneous
+- [robert-arbon](https://github.com/RobertArbon/robert-arbon) - My hugo website: [robertarbon.com](https://robertarbon.com)
+- [Wordle Solver](https://github.com/RobertArbon/wordle_solver) - WIP. My attempt at a maximum entropy solver for Worldle (currently has a bug). 
 - 
 
 
