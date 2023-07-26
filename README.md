@@ -2,7 +2,14 @@
 
 This serves as a table of contents for my public Github profile.  
 
-## PhD research
+## Research
+
+- *[Online learning of molecular kinetics](https://github.com/RobertArbon/online_kinetics)* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
+- **Paper**: *Markov state model sensitivity and hyperparameter optimisation* - WIP.  Investigating the sensitivity of Markov state models to pipeline hyperparameters and suitability for Bayesian optimisation. 
+  - [Paper](https://github.com/RobertArbon/MSM-Hyperparameter-Optimisation)
+  - [Results analysis](https://github.com/RobertArbon/msm_sensitivity_analysis)
+  - [Data generation](https://github.com/RobertArbon/msm_sensitivity)
+  - [Deprecated - results analysis](https://github.com/RobertArbon/msm_hyperparameter_optimisation). Old version of results analysis. Has some useful code but is not current.
 - **PhD**:  *Markov models of Biomolecular systems*
   - [Thesis](https://github.com/RobertArbon/Rob-Arbon-Thesis) - my thesis.
   - [Chapter 3](https://github.com/RobertArbon/water_diffusion) - MSM analysis of water diffusing in a sucrose matrix. Published paper [here](https://doi.org/10.1039/C9SC06228A)
@@ -15,20 +22,9 @@ This serves as a table of contents for my public Github profile.
     - [Initial analysis](https://github.com/RobertArbon/AADH_Analysis) - Some initial cleaning and analysis.  Superceded by `Analysis` above. 
   - [Optimising FS-peptide](https://github.com/RobertArbon/optimize-fs-peptide) - This didn't make it into the thesis but was useful preparatory work for chapter 4.
 - [Mal-L](https://github.com/RobertArbon/Mal_L) - this work formed part of the PhD thesis of Michael Connolly and is available [here](https://research-information.bris.ac.uk/ws/portalfiles/portal/317460439/Final_Copy_2022_01_25_Connolly_M_PhD_Redacted.pdf) - see sections 2.2.3, and chapter 5.
-
-
-## Other research
-
-- *[Online learning of molecular kinetics](https://github.com/RobertArbon/online_kinetics)* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
-- **Paper**: *Markov state model sensitivity and hyperparameter optimisation* - WIP.  Investigating the sensitivity of Markov state models to pipeline hyperparameters and suitability for Bayesian optimisation. 
-  - [Paper](https://github.com/RobertArbon/MSM-Hyperparameter-Optimisation)
-  - [Results analysis](https://github.com/RobertArbon/msm_sensitivity_analysis)
-  - [Data generation](https://github.com/RobertArbon/msm_sensitivity)
-  - [Deprecated - results analysis](https://github.com/RobertArbon/msm_hyperparameter_optimisation). Old version of results analysis. Has some useful code but is not current.
 - **Package**: *[InvSpec](https://github.com/RobertArbon/invspec)* - A package that generates stochastic matrices with given eignevalue spectrum (InvSpec = Invert Spectrum). 
 - **Package**: *[Adaptive](https://github.com/RobertArbon/adaptive)* - A package the tests coverage times for graph exploration using various adaptive sampling strategies.
-- **Project**: *[Multitask learning for AMR](https://github.com/RobertArbon/multitask_learning_for_AMR)* - The JGI funded project *MTL for AMR*. See [here](https://www.bristol.ac.uk/golding/our-research/life-sciences/multitask-learning-for-amr/) for more details. 
-
+- **Project**: *[Multitask learning for AMR](https://github.com/RobertArbon/multitask_learning_for_AMR)* - The JGI funded project *MTL for AMR*. See [here](https://www.bristol.ac.uk/golding/our-research/life-sciences/multitask-learning-for-amr/) for more details.
 
 ##  Open-source contributions (Closed PRs)
 - [Osprey](https://github.com/msmbuilder/osprey/pulls?q=is%3Apr+author%3ARobertArbon+is%3Aclosed) - Hyperparameter tuning package. Project is no longer in active development.
