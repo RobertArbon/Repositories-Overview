@@ -5,8 +5,8 @@ This serves as a table of contents for my public Github profile.
 ## Research
 
 - **Paper**: *Deep online learning of molecular kinetics* - WIP.  Online (i.e., 1 epoch) learning of the Koopman operator for molecular kinetics using VAMPnets.
-  - **Package**: [Celerity]((https://github.com/RobertArbon/online_kinetics) - package containing the 'online' deep-learning estimators for molecular kinetics. 
-  - [Paper](https://github.com/RobertArbon/online_kinetics_paper) - the paper. 
+  - **Package**: [Celerity](https://github.com/RobertArbon/online_kinetics) - package containing the 'online' deep-learning estimators for molecular kinetics. 
+  - [Paper](https://github.com/RobertArbon/online_kinetics_paper) 
 - **Paper**: *Markov state model sensitivity and hyperparameter optimisation* - WIP.  Investigating the sensitivity of Markov state models to pipeline hyperparameters and suitability for Bayesian optimisation. 
   - [Paper](https://github.com/RobertArbon/MSM-Hyperparameter-Optimisation)
   - [Results analysis](https://github.com/RobertArbon/msm_sensitivity_analysis)
